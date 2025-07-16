@@ -132,5 +132,7 @@ Here is a **comprehensive "Introduction to Computing" course** outline for a **B
     🔗 [https://en.wikipedia.org/wiki/Internet\_safety](https://en.wikipedia.org/wiki/Internet_safety)
 
 ---
+# **Downlode Pdf file**
+https://github.com/1abdullahr1/Introduction-to-Computing-with-Wikipedia-Topics-Links-Course-/blob/main/Introduction-to-Computing-Wikipedia-Modules.pdf
 
 
